@@ -1,6 +1,6 @@
 ## Hi There
 
-Im Zicola, Im Machine Learning and Data Science Enthusiast
+I'm Zicola, Im Machine Learning and Data Science Enthusiast
 
 <p align="left">
 <a href="https://github.com/okyx">
@@ -14,9 +14,9 @@ let's get in touch in my social media
 
 
 
-<a href="www.linkedin.com/in/zicolavladimir">
+<a href="https://www.linkedin.com/in/zicolavladimir">
   <img height="60em" width="60em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"/>
 </a>
 <a href="https://www.instagram.com/zicolavladimir/">
-  <img height="60em" width="60em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"/>
+  <img height="60em" width="60em" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png"/>
 </a>
